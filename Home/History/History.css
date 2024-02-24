@@ -1,0 +1,90 @@
+h1{ 
+    text-align: center;
+    color:black;
+    border: 3px double orange;
+    width: 500px;
+    height: 80px;
+    margin: auto;
+    padding: 10px;
+}
+h2{ 
+    text-align: center;
+    color:black;
+    border: 3px double orange;
+    width: 350px;
+    height: 70px;
+    margin: auto;
+    padding: 10px;
+}
+h5{
+    text-align: justify;
+    color:black;
+    border: none;
+    width: 900px;
+    height: px;
+    margin: auto;
+    padding: 10px;
+}
+#First{ 
+    text-align: center;
+    color:black;
+    border: 3px double orange;
+    width: 500px;
+    height: 150px;
+    margin: auto;
+    padding: 10px;
+}
+#Second{ 
+    text-align: center;
+    color:black;
+    border: 3px double orange;
+    width: 500px;
+    height: 145px;
+    margin: auto;
+    padding: 10px;
+}
+#Third{ 
+    text-align: center;
+    color:black;
+    border: 3px double orange;
+    width: 500px;
+    height: 130px;
+    margin: auto;
+    padding: 10px;
+}
+#Fourth{ 
+    text-align: center;
+    color:black;
+    border: 3px double orange;
+    width: 500px;
+    height: 150px;
+    margin: auto;
+    padding: 10px;
+}
+#Fifth{ 
+    text-align: center;
+    color:black;
+    border: 3px double orange;
+    width: 500px;
+    height: 145px;
+    margin: auto;
+    padding: 10px;
+}
+#Sixth{ 
+    text-align: center;
+    color:black;
+    border: 3px double orange;
+    width: 500px;
+    height: 180px;
+    margin: auto;
+    padding: 10px;
+}
+#Seventh{ 
+    text-align: center;
+    color:black;
+    border: 3px double orange;
+    width: 500px;
+    height: 195px;
+    margin: auto;
+    padding: 10px;
+}
