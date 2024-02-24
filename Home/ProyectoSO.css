@@ -1,0 +1,32 @@
+
+body{ 
+  background-color: white;
+}
+
+  h1{ 
+    text-align: center;
+    color: black;
+    width: 200px;
+    height: 60px;
+    margin: auto;
+    padding: 2px;
+}
+
+h5{ 
+  text-align: center;
+  color: rgb(25, 25, 24);
+  border: 1px solid orange;
+  width: 670px;
+  height: 135px;
+  margin: auto;
+  padding: 2px;
+}
+
+#Home img:hover{ 
+  box-shadow: 15px 5px 5px orange;
+  transition: all 2s ease-in-out;
+  border-radius: 50%;
+}
+
+
+
