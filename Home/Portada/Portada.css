@@ -1,0 +1,40 @@
+#UANL{
+    margin: 25px;
+}
+#FIME{
+    margin: 25px;
+}
+
+h3{
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+ }
+
+table tr{ 
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid black;
+}
+table th{ 
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid black;
+}
+table td{ 
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid black;
+}
+
+#dropdownMenu2{ 
+    width: 160px;
+    height: 50px;
+    margin: auto;
+    padding: 10px;
+  }
+
+
+
