@@ -1,5 +1,6 @@
 h1{
    font-family: Arial, Helvetica, sans-serif;
+   font-weight: bold;
  }
 
  h5{ 
@@ -46,9 +47,9 @@ body{
 }
 
 .tarjeta{
-	width: 300px;
-	height: 350px;
-	background: #F29720;
+	width: 280px;
+	height: 330px;
+	background: #F0FFFF;
 	position: relative;
 	-webkit-transform-style: preserve-3d;
 	transform-style: preserve-3d;
@@ -94,8 +95,9 @@ body{
 
 .atras{
    font-family: Arial, Helvetica, sans-serif;
-   font-weight: bold;
    font-size: large;
+   text-align: justify;
+   
 
 	-webkit-transform: rotateY(180deg);
 	transform: rotateY(180deg);
@@ -115,8 +117,8 @@ body{
 	align-items: center;
 
 	text-align: center;
-	color: #fff;
-  background: #F29720;
+	color: black;
+  background: #E6E6FA;
 }
 
 .tarjeta-wrap:hover .tarjeta{
@@ -126,14 +128,17 @@ body{
 
 .card1{
 	background-size: cover;
+	background: #F29720;
 }
 
 .card2{
 	background-size: cover;
+	background: #FACC2E;
 }
 
 .card3{
 	background-size: cover;
+	background: #FAEBD7;
 }
 
 #dropdownMenu2{ 
